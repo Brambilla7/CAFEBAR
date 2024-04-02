@@ -1,0 +1,14 @@
+header{
+    background-color:#f4906c;
+}
+li{
+    background-color: #d9d9d9;
+    flex-wrap: wrap;
+    flex-direction: space-around;
+    align-content: center;
+
+}
+#fondo{
+    width: 100%;
+    height: 100%;
+}
