@@ -1,0 +1,41 @@
+body{
+    background-color: rgba(41, 39, 39, 0.97);
+    
+}
+
+h1{
+    color: coral;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.cafe{
+    font-style: italic;
+    color:salmon;
+
+}
+h2{
+    color:salmon;
+    text-align: center;
+    font-size: 40px;
+}
+.img1{
+   
+  
+}
+    
+.img2{
+    
+
+ }  
+ .img3{
+    
+ } 
+
+
+.lista li{
+    color: beige;
+    font-size: 20px;
+    list-style-type: none;
+}
